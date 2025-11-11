@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flurry2005&layout=donut&theme=transparent&title_color=ffffff&text_color=ffffff)](https://github.com/Flurry2005/github-readme-stats)
+[![Top Langs](https://github-readme-stats-six-cyan-66.vercel.app/api/top-langs/?username=Flurry2005&layout=donut&theme=transparent&title_color=ffffff&text_color=ffffff)](https://github.com/Flurry2005/github-readme-stats)
 <!--
 **Flurry2005/Flurry2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
