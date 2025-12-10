@@ -1,7 +1,7 @@
 -----
   <h3 align="center">Languages and Tools</h3>
   <p align="center">
-    <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="[https://skillicons.dev/icons?i=blender](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Blender-Dark.svg)" width="40" height="40" alt="blender" /></a>
+    <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Blender-Dark.svg" width="40" height="40" alt="blender" /></a>
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cs" width="40" height="40" alt="csharp" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css3" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="html5" /></a>
